@@ -1,2 +1,2 @@
 # prodi-piaud
-web kepropagandaan prodi PIAUD STAI Sabili
+web kepropagandaan prodi PIAUD STAI Sabili Bandung
